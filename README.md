@@ -1,23 +1,44 @@
-# Internship Data Analytics Project 🧠📊
+# Mortality Age Analysis by Handedness
 
-This Jupyter Notebook was developed during my internship, where I explored business data to uncover insights around product performance, revenue trends, and customer behavior.
+## Project Overview
+This internship project explores potential correlations between handedness (left or right) and age at death. The analysis was conducted using Python in a Jupyter Notebook, and the final codebase is hosted on GitHub in a zipped format for review and replication.
 
-## 🔧 Tools Used
-- Python (for calculations and data exploration)
-- Tableau & Power BI (for dashboard creation)
-- Pandas, Matplotlib, Seaborn (for data analysis and visualization)
+## Repository Structure
+- `notebook.zip`: Contains the completed Jupyter Notebook with all relevant code cells, comments, and output visualizations.
+- Data files (if included): Located within the zipped folder and loaded directly in the notebook.
 
-## 📈 What the Notebook Includes
-- Revenue and transaction analysis
-- Product performance metrics
-- Calculated fields and custom KPIs
-- Data cleaning and transformation steps
-- Visualizations to highlight trends and insights
+## Objective
+To assess whether handedness influences lifespan by analyzing mortality data and performing statistical tests, with the goal of uncovering meaningful trends or confirming neutrality.
 
-## 🎯 Why This Matters
-The goal of the project was to build structured dashboards and dig deeper into business metrics that support meaningful decision-making. I focused not just on presenting data — but on building visuals that reveal patterns and performance fairly and clearly.
+## Tools & Technologies
+- **Language**: Python
+- **Environment**: Jupyter Notebook (via MedTourEasy platform)
+- **Libraries**:
+  - `pandas` for data manipulation
+  - `matplotlib` and `seaborn` for visualization
+  - `scipy.stats` for hypothesis testing
 
-## 💡 About Me
-I care deeply about authenticity and fairness in both professional spaces and data interpretation. This project was a chance to combine my analytical skills with my values, and I’m excited to share it.
+## Methodology
+- Data preprocessing including null handling and feature selection
+- Comparative analysis of age at death segmented by handedness
+- Stratified insights by gender and other available demographics
+- Statistical testing (e.g., t-tests or ANOVA) to check significance
+- Interpretation of visual trends and anomalies
 
-Feel free to explore the notebook — feedback and thoughtful discussion always welcome!
+## Key Findings
+Preliminary observations suggest marginal differences in lifespan linked to handedness. However, further exploration with broader datasets is recommended to confirm consistency and rule out confounding variables.
+
+## How to Use
+1. Download the `notebook.zip` file from the GitHub repository
+2. Extract the contents and open the `.ipynb` file in any Jupyter Notebook-compatible environment
+3. Execute code cells sequentially to reproduce the analysis
+4. Review plots and statistical outputs embedded within the notebook
+
+## Acknowledgments
+This project was completed as part of an internship with MedTourEasy. Special thanks to the team for providing data access and technical support.
+
+## Contact
+For queries or collaboration opportunities, please reach out via [Your Email Address or LinkedIn Profile].
+
+
+
