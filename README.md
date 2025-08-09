@@ -39,7 +39,8 @@ This project was completed as part of an internship with MedTourEasy. Special th
 
 ## Contact
 For queries or collaboration opportunities, please reach out via 
-📎 **LinkedIn**: [linkedin.com/in/diksha-pandey](https://www.linkedin.com/in/diksha-pandey/)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/diksha-pandey-487abb167/)
+
 
 
 
