@@ -38,7 +38,9 @@ Preliminary observations suggest marginal differences in lifespan linked to hand
 This project was completed as part of an internship with MedTourEasy. Special thanks to the team for providing data access and technical support.
 
 ## Contact
-For queries or collaboration opportunities, please reach out via [Your Email Address or LinkedIn Profile].
+For queries or collaboration opportunities, please reach out via 
+📎 **LinkedIn**: [linkedin.com/in/diksha-pandey](https://www.linkedin.com/in/diksha-pandey/)
+
 
 
 
